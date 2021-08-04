@@ -10,7 +10,9 @@
 </div>
      
 <div>
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="50">
+<img src="https://github.com/Chislaine/Chislaine/blob/main/files/html.png" width="50">
+<img src="https://github.com/Chislaine/Chislaine/blob/main/files/css.png" width="50">
+<img src="https://github.com/Chislaine/Chislaine/blob/main/files/javascript.png" width="50">
 
 
 
