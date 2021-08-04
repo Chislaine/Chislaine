@@ -8,6 +8,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chislaine&layout=compact&theme=onedark)](https://github.com/jeanmoissa/github-readme-stats)
      
 </div>
+     
+<div>
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="50">
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/stackx.png" width="50">
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="50">
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/css.png" width="50">
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/javascript.png" width="50">
+</div>
+     
+     
   
 <div float="left">
 <br>
