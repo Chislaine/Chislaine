@@ -11,9 +11,7 @@
      
 <div>
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="50">
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/stackx.png" width="50">
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css" width="50">
+
 
 
 </div>
