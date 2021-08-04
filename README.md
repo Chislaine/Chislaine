@@ -25,7 +25,7 @@
 
 <a href="https://www.linkedin.com/in/chislaine-vorel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/chisvorel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:chislaine2012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
-![Snake animation](https://github.com/Chislaine/blob/output/github-contribution-grid-snake.svg)     
+![Snake animation](https://github.com/Chislaine/Chislaine/blob/main/.github/workflows/cobrinha.yml)     
 <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
 </div>
 
