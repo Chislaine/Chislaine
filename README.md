@@ -14,6 +14,7 @@
 <img src="https://github.com/Chislaine/Chislaine/blob/main/files/css.png" width="50">
 <img src="https://github.com/Chislaine/Chislaine/blob/main/files/javascript.png" width="50">
 <img src="https://github.com/Chislaine/Chislaine/blob/main/files/python.png" width="50">
+<img src="https://github.com/Chislaine/Chislaine/blob/main/files/csharp.png" width="50">
 </div>
      
      
